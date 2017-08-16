@@ -1,4 +1,4 @@
-package com.hfad.javadevsinlag;
+package com.hfad.javadevsinlag.controller;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -14,6 +14,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
+import com.hfad.javadevsinlag.R;
 
 
 /**
